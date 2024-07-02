@@ -1,6 +1,20 @@
 #!/bin/bash
 
-# 1. caja를 검색할 필요 없음 - 바로 스크립트로 폴더 이동
+
+
+# git update
+git branch -a
+
+
+git stash
+
+
+git checkout master
+
+
+git pull
+
+
 # 2. 폴더 이동
 cd ~/RB_MOBILE/release
 
