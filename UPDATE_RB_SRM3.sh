@@ -28,8 +28,6 @@ git pull
 #sudo ./update_srv_remove.sh
 echo "모든 시스템 업데이트가 완료되었습니다."
 
-#!/bin/bash
-
 # 필요한 패키지 업데이트 및 설치
 sudo apt-get update
 
